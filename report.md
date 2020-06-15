@@ -8,8 +8,6 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/lizylina/1.1.KeyValidator/issues/1
-* https://github.com/lizylina/1.1.KeyValidator/issues/2
-* https://github.com/lizylina/1.1.KeyValidator/issues/3
 
 ## Описание процесса тестирования
 
